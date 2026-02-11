@@ -1,6 +1,6 @@
 ---
 title: 'Setting up OBS for webcasting'
-draft: false
+draft: true
 image: "img/obs.png"
 date: today
 document-type: "blog"
